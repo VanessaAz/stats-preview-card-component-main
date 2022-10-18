@@ -55,6 +55,7 @@ main {
     line-height: 0;
     border-top-left-radius: 1em;
     border-top-right-radius: 1em;
+    opacity: 80%;
 }
 
 .main-img {
